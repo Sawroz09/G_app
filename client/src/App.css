@@ -1,0 +1,57 @@
+*{
+  color: rgb(4, 16, 248);
+}
+.add_btn{
+  text-align: right;
+}
+.container{
+  overflow: auto;
+
+}
+.nav{
+  text-decoration: none;
+  margin-right: 700px;
+  color: rgb(240, 10, 40);
+  overflow: auto;
+ 
+}
+.nav:hover{
+  text-decoration: none;
+  margin-right: 700px;
+  color: rgb(75, 10, 240);
+ 
+}
+.navop{
+  text-decoration: none;
+margin-left: 00px;
+  color: rgb(10, 240, 18);
+  overflow: auto;
+  float: left;
+ 
+}
+.navop:hover{
+  text-decoration: none;
+
+  color: rgb(75, 10, 240);
+ 
+}
+.left_view h3{
+  font-size: 22px;
+  font-weight: 600;
+ 
+}
+  .left_view p{
+    font-weight: 600;
+  }
+  .left_view span{
+    font-weight: 400;
+  }
+  .add-btn{
+    margin-left: 350px;
+  }
+  .right_view p{
+    font-weight: 600;
+  }
+  .right_view span{
+    font-weight: 400;
+  }
